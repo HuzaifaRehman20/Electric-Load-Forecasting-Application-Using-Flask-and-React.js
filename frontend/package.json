@@ -1,0 +1,35 @@
+{
+  "name": "electric-load-forecasting",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "axios": "^1.9.0",
+    "chart.js": "^4.4.9",
+    "react": "^18.3.1",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "^18.3.1",
+    "react-scripts": "^5.0.1",
+    "react-select": "^5.10.1",
+    "react-slider": "^2.0.6",
+    "recharts": "^2.15.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
